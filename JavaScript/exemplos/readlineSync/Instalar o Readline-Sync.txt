@@ -1,0 +1,18 @@
+Instalar o Readline-Sync:
+
+1- criar a pasta do projeto
+2- entrar na pasta do projeto
+3- executar o npm -> npm init -y
+4- executar -> npm install readline-sync
+
+Configurar o Readline-Sync:
+
+1- abrir o arquivo package.json que esta na pasta do projeto
+2- adicionar a linha -> "type": "module", abaixo da linha "description": "",
+3- salvar o arquivo
+
+Importando o plugin:
+1- na pasta do projeto criar o arquivo -> index.js
+2- no arquivo digitar -> const readline = require('readline-sync');
+OBS. a variavel pode ser declarada com qualquer tipo(const, var ou let)
+OBS1. na codigo do passo 2 a palavra "readline" é um nome de variavel então pode ser qualquer palavra
