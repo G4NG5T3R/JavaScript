@@ -1,4 +1,0 @@
-SALVA USUARIO E SENHA PERMANENTE:
-git config --global credential.helper cache
-TESTANDO CREDENCIAIS aagit status
-a
